@@ -1,0 +1,15 @@
+D:\обучение\geekbrain\1final\task\bin\Debug\net6.0\task.exe
+D:\обучение\geekbrain\1final\task\bin\Debug\net6.0\task.deps.json
+D:\обучение\geekbrain\1final\task\bin\Debug\net6.0\task.runtimeconfig.json
+D:\обучение\geekbrain\1final\task\bin\Debug\net6.0\task.dll
+D:\обучение\geekbrain\1final\task\bin\Debug\net6.0\task.pdb
+D:\обучение\geekbrain\1final\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+D:\обучение\geekbrain\1final\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+D:\обучение\geekbrain\1final\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+D:\обучение\geekbrain\1final\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+D:\обучение\geekbrain\1final\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+D:\обучение\geekbrain\1final\task\obj\Debug\net6.0\task.dll
+D:\обучение\geekbrain\1final\task\obj\Debug\net6.0\refint\task.dll
+D:\обучение\geekbrain\1final\task\obj\Debug\net6.0\task.pdb
+D:\обучение\geekbrain\1final\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+D:\обучение\geekbrain\1final\task\obj\Debug\net6.0\ref\task.dll
